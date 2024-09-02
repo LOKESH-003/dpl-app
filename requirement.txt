@@ -1,5 +1,0 @@
-Flask
-threading
-opencv-python-headless  
-ultralytics
-twilio
